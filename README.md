@@ -30,6 +30,10 @@ The project focuses on DOM manipulation, game logic implementation, and interact
 4. The first player to connect four discs in a row (horizontal, vertical, or diagonal) wins.
 5. Click "Restart Game" to play again.
 
+## Snapshot
+
+<img width="831" height="604" alt="image" src="https://github.com/user-attachments/assets/67f905c2-dc6a-4783-9bea-f2acd4125f21" />
+
 ## Preview
 
 A simple and fun browser-based Connect Four game with smooth gameplay and clean UI.
